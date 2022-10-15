@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itsmeravik
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in web development,cloud computing and Data Science
 - 🌱 I’m currently learning .HTML , CSS and Javascript..
 - 💞️ I’m looking to collaborate on Freelancing projects of HTML and CSS, Technical support of software systems etc.
